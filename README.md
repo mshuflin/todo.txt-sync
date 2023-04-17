@@ -1,6 +1,8 @@
 # todo.txt-sync
 Synchronize your todo.txt file with another by context or project
 
+This fork translates everything to English
+
 ## Download
 ```
 wget https://raw.githubusercontent.com/uGeek/todo.txt-sync/master/todo.txt-sync
