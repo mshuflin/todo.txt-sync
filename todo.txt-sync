@@ -8,8 +8,8 @@
 
 CONTEXT="@home"
 ="60"  # 1 minute
-A1="nombre del usuario1"
-A2="nombre del usuario2"
+A1="name of user 1"
+A2="name of user 2"
 
 FILE1=~/syncthing/todo/todo.txt
 FILE_PATH1=~/syncthing/todo/
